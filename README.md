@@ -21,8 +21,6 @@ I'm a software developer and SaaS founder working on impactful products like **A
 
 - 🔹 [Adxpot](https://adxpot.com) – Monetize your viral tweets by allowing ad placements from businesses.
 - 🔹 [Xcanner](https://xcanner.com) – A real-time Twitter keyword monitor.
-- 🔹 Wallet Analyzer Bot – Analyze Solana wallets in real time for capital, win rate, and PNL.
-- 🔹 [Upwork Job Alert System](https://nodetent.com/projects/upworkalert/) – Track and receive Upwork jobs directly to Telegram with no sign-up needed.
 
 ---
 
