@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Okoya Usman
 
-I'm a software developer and SaaS founder working on impactful products like **Adxpot** and **Xcanner**. I love building backend systems, bots, and automation tools using languages like Clojure, PHP, and Python.
+I'm a software developer and SaaS founder working on impactful products like **LivestreamSaver** and **Xcanner**. I love building backend systems, bots, and automation tools using languages like Clojure, PHP, and Python.
 
 ---
 
@@ -32,6 +32,7 @@ I'm a software developer and SaaS founder working on impactful products like **A
 ---
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okoyausman&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=okoyausman&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=okoyausman&theme=tokyonight" />
 </p>
